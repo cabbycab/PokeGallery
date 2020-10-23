@@ -29,7 +29,7 @@ header, footer {
 header {
     padding-left: 10px;
     font-family: var(--logo-font);
-    box-shadow: 1px 1px 12px 1px var(--shadow-grey-light;)
+    box-shadow: 1px 1px 20px 1px var(--shadow-grey-dark);
 }
 
 header > h1 {
@@ -50,6 +50,7 @@ main {
     border: 1px solid var(--primary-brand-color);
     box-shadow: 1px 1px 12px 1px var(--shadow-grey-light);
     font-size: 30px;
+    text-transform: capitalize;
 }
 
 .card:hover {
