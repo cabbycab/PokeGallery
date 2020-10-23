@@ -34,7 +34,7 @@ header {
 
 header > h1 {
     color: var(--accent-color);
-    text-shadow: 1px 1px 3px var(--secondary-brand-color);
+    text-shadow: 1px 1px 12px var(--secondary-brand-color);
 }
 footer {
     justify-content: center;
@@ -45,12 +45,14 @@ main {
 .card {
     width: 300px;
     height: 150px;
-    border-radius: 12px;
+    border-radius: 18px;
     margin: 10px;
     border: 1px solid var(--primary-brand-color);
     box-shadow: 1px 1px 12px 1px var(--shadow-grey-light);
-    font-size: 30px;
+    font-size: 20px;
     text-transform: capitalize;
+    font-family: var(--logo-font);
+    color: var(--primary-brand-color);
 }
 
 .card:hover {

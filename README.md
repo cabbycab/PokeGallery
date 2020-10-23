@@ -15,6 +15,6 @@ A simple web application that displays Pokemon data using a Pokemon API
 ![wireframe](./imgs/wireframe.png)
 
 ## Getting Started:
-[Click Here](#) to see the deployed app!
+[Click Here](https://cabbycab.github.io/PokeGallery/) to see the deployed app!
 
 ## Obstacles:
